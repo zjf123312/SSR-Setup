@@ -3,7 +3,8 @@
 推荐使用 Debian 9 系统，脚本会自动启用 BBR 优化。
 使用 root 用户输入下面命令安装或卸载
 
-bash <(curl -s -L https://github.com/zjf123312/SSR-Setup/blob/master/v2ray_install.sh)
+bash <(curl -s -L https://github.com/zjf123312/SSR-Setup/blob/master/v2ray_install.sh?raw=true)
+bash <(curl -s -L https://233blog.com/v2ray.sh)
 如果提示 curl: command not found ，那是因为你的小鸡没装 Curl
 ubuntu/debian 系统安装 Curl 方法: apt-get update -y && apt-get install curl -y
 centos 系统安装 Curl 方法: yum update -y && yum install curl -y

@@ -1,3 +1,3 @@
 yum -y install wget
-wget -N --no-check-certificate https://github.com/zjf123312/SSR-Setup/blob/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+wget -N --no-check-certificate https://github.com/zjf123312/SSR-Setup/blob/master/ssr.sh?raw=true && chmod +x ssr.sh && bash ssr.sh
 
